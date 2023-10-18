@@ -69,7 +69,7 @@ SEVENKINGDOMS.LOCAL
   - maester.pycelle:   
 - DRAGONSTONE :        ACE Write Owner on group KINGSGUARD
 - KINGSGUARD :         ACE generic all on user stannis.baratheon
-- AccorsTheNarrowSea:       cross forest group
+- AcrossTheNarrowSea:       cross forest group
 
 ESSOS.LOCAL
 - TARGERYEN
